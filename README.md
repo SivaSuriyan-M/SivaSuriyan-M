@@ -12,7 +12,7 @@ This is my GitHub profile where I showcase my coding projects, data analysis wor
 **What I'm interested in:**
 
 * Programming languages: Python, SQL
-* Tools: Excel, Google sheets, Tableau, Google bigquery.
+* Tools: Excel, Google sheets, Tableau, Google bigquery, MYSQL, Jupyter Notebook.
 * Areas of data analysis: Data cleaning, Data processing, Data manipulation, Data visualization.
 
 **Connect with me:**
